@@ -1,1 +1,1 @@
-# app-creator
+{"name":"parnian code","version":"1.0","version code":"1.0","version Framework":"1.0","address img":"","address code":"","address Framework":""}
